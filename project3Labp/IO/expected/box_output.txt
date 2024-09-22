@@ -1,0 +1,245 @@
+Total boxes: 45
+   ↳BOX: w: 49 #itens: 4
+      MARIANA[HELENA[ANA]] w: 16
+      MARIANA[HELENA[ANA]] w: 16
+      MARIANA[ANA] w: 10
+      RITA[ANA] w: 7
+   ↳BOX: w: 27 #itens: 5
+      ANA[EL] w: 5
+      RITA w: 4
+      LIVIA w: 5
+      ANA w: 3
+      MARIANA[ANA] w: 10
+   ↳BOX: w: 45 #itens: 5
+      MARIANA[D] w: 8
+      ANA w: 3
+      HELENA[RITA[ANA]] w: 13
+      MARIANA[ANA] w: 10
+      MARIANA[RITA] w: 11
+   ↳BOX: w: 31 #itens: 4
+      EL w: 2
+      RITA w: 4
+      MARIANA[LIVIA[D]] w: 13
+      MARIANA[LIVIA] w: 12
+   ↳BOX: w: 34 #itens: 5
+      ANA w: 3
+      ANA w: 3
+      LIVIA w: 5
+      MARIANA[D] w: 8
+      HELENA[LIVIA[RITA]] w: 15
+   ↳BOX: w: 5 #itens: 1
+      LIVIA w: 5
+   ↳BOX: w: 24 #itens: 5
+      ANA[EL] w: 5
+      ANA w: 3
+      LIVIA[EL[D]] w: 8
+      LIVIA[D] w: 6
+      EL w: 2
+   ↳BOX: w: 55 #itens: 5
+      RITA w: 4
+      MARIANA[HELENA] w: 13
+      MARIANA[HELENA[ANA]] w: 16
+      MARIANA[HELENA[RITA]] w: 17
+      LIVIA w: 5
+   ↳BOX: w: 35 #itens: 5
+      LIVIA w: 5
+      MARIANA[ANA] w: 10
+      RITA w: 4
+      MARIANA[LIVIA] w: 12
+      RITA w: 4
+   ↳BOX: w: 43 #itens: 5
+      HELENA[RITA[ANA]] w: 13
+      MARIANA[LIVIA[ANA]] w: 15
+      ANA[EL] w: 5
+      ANA w: 3
+      RITA[ANA] w: 7
+   ↳BOX: w: 47 #itens: 5
+      MARIANA[LIVIA[D]] w: 13
+      ANA[EL] w: 5
+      LIVIA w: 5
+      MARIANA[RITA] w: 11
+      MARIANA[LIVIA[D]] w: 13
+   ↳BOX: w: 45 #itens: 5
+      HELENA[RITA[ANA]] w: 13
+      ANA w: 3
+      LIVIA w: 5
+      MARIANA[D] w: 8
+      MARIANA[HELENA[ANA]] w: 16
+   ↳BOX: w: 23 #itens: 3
+      RITA w: 4
+      HELENA[RITA[ANA[D]]] w: 14
+      ANA[EL] w: 5
+   ↳BOX: w: 41 #itens: 5
+      ANA w: 3
+      MARIANA[D] w: 8
+      MARIANA[D] w: 8
+      HELENA[ANA] w: 9
+      HELENA[RITA[ANA]] w: 13
+   ↳BOX: w: 45 #itens: 5
+      RITA[ANA] w: 7
+      ANA w: 3
+      HELENA[ANA] w: 9
+      HELENA[LIVIA[RITA]] w: 15
+      MARIANA[RITA] w: 11
+   ↳BOX: w: 24 #itens: 3
+      RITA w: 4
+      MARIANA[HELENA[RITA]] w: 17
+      EL[D] w: 3
+   ↳BOX: w: 31 #itens: 3
+      HELENA[RITA[ANA[D]]] w: 14
+      EL w: 2
+      MARIANA[LIVIA[ANA]] w: 15
+   ↳BOX: w: 27 #itens: 4
+      D w: 1
+      HELENA[LIVIA[RITA]] w: 15
+      ANA w: 3
+      MARIANA[D] w: 8
+   ↳BOX: w: 47 #itens: 5
+      HELENA[LIVIA[RITA]] w: 15
+      HELENA[RITA[ANA]] w: 13
+      LIVIA w: 5
+      D w: 1
+      HELENA[RITA[ANA]] w: 13
+   ↳BOX: w: 56 #itens: 5
+      MARIANA[HELENA[ANA]] w: 16
+      MARIANA[HELENA[RITA]] w: 17
+      D w: 1
+      LIVIA[D] w: 6
+      MARIANA[HELENA[ANA]] w: 16
+   ↳BOX: w: 25 #itens: 5
+      RITA w: 4
+      RITA w: 4
+      ANA w: 3
+      MARIANA[RITA] w: 11
+      ANA w: 3
+   ↳BOX: w: 37 #itens: 5
+      MARIANA[HELENA[ANA]] w: 16
+      MARIANA[D] w: 8
+      ANA[EL] w: 5
+      ANA w: 3
+      LIVIA w: 5
+   ↳BOX: w: 4 #itens: 2
+      D w: 1
+      EL[D] w: 3
+   ↳BOX: w: 26 #itens: 4
+      RITA w: 4
+      MARIANA[RITA] w: 11
+      RITA w: 4
+      MARIANA w: 7
+   ↳BOX: w: 22 #itens: 5
+      ANA w: 3
+      HELENA[ANA] w: 9
+      ANA w: 3
+      ANA w: 3
+      RITA w: 4
+   ↳BOX: w: 27 #itens: 5
+      ANA w: 3
+      D w: 1
+      RITA w: 4
+      MARIANA[ANA] w: 10
+      HELENA[ANA] w: 9
+   ↳BOX: w: 22 #itens: 4
+      HELENA[EL] w: 8
+      LIVIA w: 5
+      EL[D] w: 3
+      LIVIA[D] w: 6
+   ↳BOX: w: 28 #itens: 5
+      RITA w: 4
+      D w: 1
+      MARIANA w: 7
+      MARIANA w: 7
+      HELENA[ANA] w: 9
+   ↳BOX: w: 42 #itens: 5
+      MARIANA[RITA] w: 11
+      ANA w: 3
+      MARIANA w: 7
+      MARIANA[HELENA[RITA]] w: 17
+      RITA w: 4
+   ↳BOX: w: 34 #itens: 5
+      ANA[EL] w: 5
+      MARIANA[D] w: 8
+      LIVIA w: 5
+      ANA w: 3
+      HELENA[RITA[ANA]] w: 13
+   ↳BOX: w: 43 #itens: 5
+      HELENA[LIVIA[RITA]] w: 15
+      MARIANA w: 7
+      RITA w: 4
+      MARIANA[LIVIA] w: 12
+      LIVIA w: 5
+   ↳BOX: w: 50 #itens: 4
+      HELENA[LIVIA[RITA]] w: 15
+      ANA[EL] w: 5
+      MARIANA[HELENA[ANA]] w: 16
+      HELENA[RITA[ANA[D]]] w: 14
+   ↳BOX: w: 14 #itens: 2
+      MARIANA[RITA] w: 11
+      ANA w: 3
+   ↳BOX: w: 36 #itens: 4
+      D w: 1
+      MARIANA[LIVIA[ANA]] w: 15
+      ANA w: 3
+      MARIANA[HELENA[RITA]] w: 17
+   ↳BOX: w: 26 #itens: 4
+      RITA w: 4
+      MARIANA[D] w: 8
+      MARIANA[D] w: 8
+      HELENA w: 6
+   ↳BOX: w: 40 #itens: 5
+      ANA w: 3
+      MARIANA[HELENA] w: 13
+      MARIANA[HELENA[ANA]] w: 16
+      EL[D] w: 3
+      LIVIA w: 5
+   ↳BOX: w: 32 #itens: 3
+      MARIANA[LIVIA] w: 12
+      LIVIA w: 5
+      HELENA[LIVIA[RITA]] w: 15
+   ↳BOX: w: 30 #itens: 5
+      MARIANA w: 7
+      RITA w: 4
+      ANA w: 3
+      HELENA[RITA[ANA]] w: 13
+      ANA w: 3
+   ↳BOX: w: 37 #itens: 5
+      MARIANA[D] w: 8
+      MARIANA[RITA] w: 11
+      RITA w: 4
+      D w: 1
+      MARIANA[HELENA] w: 13
+   ↳BOX: w: 36 #itens: 5
+      MARIANA[ANA] w: 10
+      ANA w: 3
+      MARIANA[LIVIA] w: 12
+      ANA w: 3
+      HELENA[EL] w: 8
+   ↳BOX: w: 59 #itens: 5
+      MARIANA w: 7
+      MARIANA[LIVIA[D]] w: 13
+      MARIANA w: 7
+      MARIANA[LIVIA[ANA]] w: 15
+      MARIANA[HELENA[RITA]] w: 17
+   ↳BOX: w: 35 #itens: 5
+      MARIANA[LIVIA[ANA]] w: 15
+      D w: 1
+      MARIANA[D] w: 8
+      HELENA[EL] w: 8
+      ANA w: 3
+   ↳BOX: w: 25 #itens: 5
+      RITA w: 4
+      LIVIA[EL[D]] w: 8
+      RITA w: 4
+      ANA[EL] w: 5
+      RITA w: 4
+   ↳BOX: w: 28 #itens: 5
+      LIVIA w: 5
+      MARIANA[RITA] w: 11
+      LIVIA w: 5
+      RITA w: 4
+      ANA w: 3
+   ↳BOX: w: 50 #itens: 5
+      MARIANA[HELENA[ANA]] w: 16
+      MARIANA[D] w: 8
+      RITA[ANA] w: 7
+      MARIANA[HELENA[ANA]] w: 16
+      ANA w: 3
